@@ -1,6 +1,6 @@
 # Custom Proxmox PVE Helper Scripts
 
-This repository contains helper scripts for provisioning containers on Proxmox VE. The `lancache-oci-host.sh` script builds a Debian 13 (trixie) LXC tailored for running the Lancache stack with Docker.
+This repository contains helper scripts for provisioning containers on Proxmox VE. The `lancache-oci-host.sh` script builds a Debian 12 LXC tailored for running the Lancache stack with Docker.
 
 ## How to use
 1. Copy the scripts to your Proxmox host (e.g., via `scp`), or clone/pull the repository directly onto the host.
